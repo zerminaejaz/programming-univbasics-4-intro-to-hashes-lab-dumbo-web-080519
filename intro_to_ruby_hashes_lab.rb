@@ -17,7 +17,7 @@ end
 def my_hash_creator(key, value)
   key = "Mina"
   value = 12.16
-  hash[:key] = value
+  hash[] = value
 end
 
 def read_from_hash(hash, key)
