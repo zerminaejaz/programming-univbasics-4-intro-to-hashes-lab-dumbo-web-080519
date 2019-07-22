@@ -15,8 +15,6 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  key = "Mina"
-  value = 12.16
   hash = {key => value}
 end
 
